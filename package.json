@@ -5,8 +5,8 @@
   "type": "module",
   "homepage": "https://sumaiyakawsar.github.io",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d dist -b gh-pages",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
