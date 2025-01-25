@@ -15,7 +15,7 @@ To inspire and empower others with impactful projects while constantly learning 
   
 ---
 ## 📂 Features
-- 🖥️ Interactive portfolio website
+- 🖥️ Portfolio website
 - 📊 Showcasing projects 
 - 🌈 Goal: Aesthetic, user-friendly design
 
