@@ -2,7 +2,7 @@ import React from 'react'
 
 function Projects() {
     return (
-        <div>Projects</div>
+        <div className='border-solid border-2 border-purple-600'>Projects</div>
     )
 }
 
