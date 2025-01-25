@@ -1,16 +1,19 @@
 # 🚀 Personal Portfolio
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)  ![Technologies](https://img.shields.io/badge/Built%20With-React%20%7C%20TailwindCSS-orange)
-
-Welcome to my personal portfolio repository! 🌟 This project showcases my work, skills, and projects in **Data Analytics**, **Machine Learning**, **UI/UX Design**, and **Web Development**.
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)  ![Technologies](https://img.shields.io/badge/Built_With-React_%7C_TailwindCSS-orange)
 <!-- ![License](https://img.shields.io/badge/License-MIT-blue) -->
+
+
+Welcome to my personal portfolio repository! 🌟
+I'm a passionate learner and aspiring **Data Analyst** and **Front-End Developer**. This project showcases my work, skills, and projects in **Data Analytics**, **Machine Learning**, **UI/UX Design**, and **Web Development**. 
+
 ---
 
 ## 🎯 Vision
 To inspire and empower others with impactful projects while constantly learning and growing.
-
+- 🎯 2025 Goals: Build a career, create inspiring projects, and grow both personally and professionally.
+  
 ---
-
 ## 📂 Features
 - 🖥️ Interactive portfolio website
 - 📊 Showcasing projects 
@@ -30,11 +33,10 @@ To inspire and empower others with impactful projects while constantly learning 
 ## 🚧 Current Progress
 - [x] Portfolio wireframe
 - [x] Initial setup (React + TailwindCSS)
-- [ ] Add project showcases
+- [x] Deploy the portfolio live on GitHub Pages 
 - [ ] Add all the pages
-- [ ] Design each page
-- [x] Deploy website on GitHub Pages/Netlify
-
+- [ ] Add project details and showcase links  
+- [ ] Enhance UI with animations and responsiveness  
 ---
 
 ## 📸 Preview
